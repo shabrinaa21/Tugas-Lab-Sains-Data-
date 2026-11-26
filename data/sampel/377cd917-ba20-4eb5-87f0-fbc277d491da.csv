@@ -1,0 +1,666 @@
+﻿_id,tahun_data,nama_kab_kota,jenis_kerusakan,jumlah_kerusakan
+1,2023,Klaten,Rumah Rusak Berat,24
+2,2023,Magelang,Rumah Rusak Berat,1
+3,2023,Kudus,Rumah Rusak Berat,0
+4,2023,Cilacap,Rumah Rusak Berat,69
+5,2023,Sragen,Rumah Rusak Berat,4
+6,2023,Semarang,Rumah Rusak Berat,3
+7,2023,Kota Semarang,Rumah Rusak Berat,28
+8,2023,Temanggung,Rumah Rusak Berat,17
+9,2023,Wonogiri,Rumah Rusak Berat,5
+10,2023,Sukoharjo,Rumah Rusak Berat,1
+11,2023,Jepara,Rumah Rusak Berat,1
+12,2023,Grobogan,Rumah Rusak Berat,1
+13,2023,Banyumas,Rumah Rusak Berat,1
+14,2023,Wonosobo,Rumah Rusak Berat,9
+15,2023,Brebes,Rumah Rusak Berat,1
+16,2023,Karanganyar,Rumah Rusak Berat,6
+17,2023,Tegal,Rumah Rusak Berat,4
+18,2023,Pati,Rumah Rusak Berat,0
+19,2023,Purbalingga,Rumah Rusak Berat,3
+20,2023,Kendal,Rumah Rusak Berat,1
+21,2023,Banjarnegara,Rumah Rusak Berat,12
+22,2023,Batang,Rumah Rusak Berat,1
+23,2023,Blora,Rumah Rusak Berat,7
+24,2023,Kota Surakarta,Rumah Rusak Berat,0
+25,2023,Demak,Rumah Rusak Berat,10
+26,2023,Kebumen,Rumah Rusak Berat,0
+27,2023,Kota Pekalongan,Rumah Rusak Berat,0
+28,2023,Pemalang,Rumah Rusak Berat,0
+29,2023,Kota Tegal,Rumah Rusak Berat,0
+30,2023,Pekalongan,Rumah Rusak Berat,0
+31,2023,Rembang,Rumah Rusak Berat,1
+32,2023,Kota Salatiga,Rumah Rusak Berat,0
+33,2023,Boyolali,Rumah Rusak Berat,0
+34,2023,Purworejo,Rumah Rusak Berat,0
+35,2023,Kota Magelang,Rumah Rusak Berat,0
+36,2023,Klaten,Rumah Rusak Sedang,12
+37,2023,Magelang,Rumah Rusak Sedang,5
+38,2023,Kudus,Rumah Rusak Sedang,5
+39,2023,Cilacap,Rumah Rusak Sedang,28
+40,2023,Sragen,Rumah Rusak Sedang,0
+41,2023,Semarang,Rumah Rusak Sedang,0
+42,2023,Kota Semarang,Rumah Rusak Sedang,15
+43,2023,Temanggung,Rumah Rusak Sedang,15
+44,2023,Wonogiri,Rumah Rusak Sedang,58
+45,2023,Sukoharjo,Rumah Rusak Sedang,0
+46,2023,Jepara,Rumah Rusak Sedang,5
+47,2023,Grobogan,Rumah Rusak Sedang,1
+48,2023,Banyumas,Rumah Rusak Sedang,9
+49,2023,Wonosobo,Rumah Rusak Sedang,48
+50,2023,Brebes,Rumah Rusak Sedang,1
+51,2023,Karanganyar,Rumah Rusak Sedang,7
+52,2023,Tegal,Rumah Rusak Sedang,2
+53,2023,Pati,Rumah Rusak Sedang,0
+54,2023,Purbalingga,Rumah Rusak Sedang,9
+55,2023,Kendal,Rumah Rusak Sedang,5
+56,2023,Banjarnegara,Rumah Rusak Sedang,12
+57,2023,Batang,Rumah Rusak Sedang,1
+58,2023,Blora,Rumah Rusak Sedang,1
+59,2023,Kota Surakarta,Rumah Rusak Sedang,0
+60,2023,Demak,Rumah Rusak Sedang,1
+61,2023,Kebumen,Rumah Rusak Sedang,5
+62,2023,Kota Pekalongan,Rumah Rusak Sedang,1
+63,2023,Pemalang,Rumah Rusak Sedang,0
+64,2023,Kota Tegal,Rumah Rusak Sedang,0
+65,2023,Pekalongan,Rumah Rusak Sedang,0
+66,2023,Rembang,Rumah Rusak Sedang,0
+67,2023,Kota Salatiga,Rumah Rusak Sedang,4
+68,2023,Boyolali,Rumah Rusak Sedang,0
+69,2023,Purworejo,Rumah Rusak Sedang,7
+70,2023,Kota Magelang,Rumah Rusak Sedang,0
+71,2023,Klaten,Rumah Rusak Ringan,32
+72,2023,Magelang,Rumah Rusak Ringan,86
+73,2023,Kudus,Rumah Rusak Ringan,1
+74,2023,Cilacap,Rumah Rusak Ringan,179
+75,2023,Sragen,Rumah Rusak Ringan,242
+76,2023,Semarang,Rumah Rusak Ringan,1
+77,2023,Kota Semarang,Rumah Rusak Ringan,61
+78,2023,Temanggung,Rumah Rusak Ringan,140
+79,2023,Wonogiri,Rumah Rusak Ringan,209
+80,2023,Sukoharjo,Rumah Rusak Ringan,56
+81,2023,Jepara,Rumah Rusak Ringan,109
+82,2023,Grobogan,Rumah Rusak Ringan,101
+83,2023,Banyumas,Rumah Rusak Ringan,35
+84,2023,Wonosobo,Rumah Rusak Ringan,223
+85,2023,Brebes,Rumah Rusak Ringan,22
+86,2023,Karanganyar,Rumah Rusak Ringan,27
+87,2023,Tegal,Rumah Rusak Ringan,7
+88,2023,Pati,Rumah Rusak Ringan,3
+89,2023,Purbalingga,Rumah Rusak Ringan,47
+90,2023,Kendal,Rumah Rusak Ringan,30
+91,2023,Banjarnegara,Rumah Rusak Ringan,22
+92,2023,Batang,Rumah Rusak Ringan,24
+93,2023,Blora,Rumah Rusak Ringan,29
+94,2023,Kota Surakarta,Rumah Rusak Ringan,9
+95,2023,Demak,Rumah Rusak Ringan,603
+96,2023,Kebumen,Rumah Rusak Ringan,37
+97,2023,Kota Pekalongan,Rumah Rusak Ringan,0
+98,2023,Pemalang,Rumah Rusak Ringan,50
+99,2023,Kota Tegal,Rumah Rusak Ringan,0
+100,2023,Pekalongan,Rumah Rusak Ringan,6
+101,2023,Rembang,Rumah Rusak Ringan,1
+102,2023,Kota Salatiga,Rumah Rusak Ringan,0
+103,2023,Boyolali,Rumah Rusak Ringan,0
+104,2023,Purworejo,Rumah Rusak Ringan,15
+105,2023,Kota Magelang,Rumah Rusak Ringan,0
+106,2023,Klaten,Rumah Terancam,0
+107,2023,Magelang,Rumah Terancam,14
+108,2023,Kudus,Rumah Terancam,0
+109,2023,Cilacap,Rumah Terancam,2
+110,2023,Sragen,Rumah Terancam,0
+111,2023,Semarang,Rumah Terancam,0
+112,2023,Kota Semarang,Rumah Terancam,4
+113,2023,Temanggung,Rumah Terancam,3
+114,2023,Wonogiri,Rumah Terancam,76
+115,2023,Sukoharjo,Rumah Terancam,0
+116,2023,Jepara,Rumah Terancam,2
+117,2023,Grobogan,Rumah Terancam,0
+118,2023,Banyumas,Rumah Terancam,15
+119,2023,Wonosobo,Rumah Terancam,0
+120,2023,Brebes,Rumah Terancam,109
+121,2023,Karanganyar,Rumah Terancam,0
+122,2023,Tegal,Rumah Terancam,0
+123,2023,Pati,Rumah Terancam,0
+124,2023,Purbalingga,Rumah Terancam,5
+125,2023,Kendal,Rumah Terancam,0
+126,2023,Banjarnegara,Rumah Terancam,13
+127,2023,Batang,Rumah Terancam,13
+128,2023,Blora,Rumah Terancam,0
+129,2023,Kota Surakarta,Rumah Terancam,20
+130,2023,Demak,Rumah Terancam,0
+131,2023,Kebumen,Rumah Terancam,0
+132,2023,Kota Pekalongan,Rumah Terancam,0
+133,2023,Pemalang,Rumah Terancam,0
+134,2023,Kota Tegal,Rumah Terancam,0
+135,2023,Pekalongan,Rumah Terancam,0
+136,2023,Rembang,Rumah Terancam,0
+137,2023,Kota Salatiga,Rumah Terancam,0
+138,2023,Boyolali,Rumah Terancam,0
+139,2023,Purworejo,Rumah Terancam,0
+140,2023,Kota Magelang,Rumah Terancam,0
+141,2023,Klaten,Rumah Terendam,150
+142,2023,Magelang,Rumah Terendam,0
+143,2023,Kudus,Rumah Terendam,879
+144,2023,Cilacap,Rumah Terendam,1070
+145,2023,Sragen,Rumah Terendam,1023
+146,2023,Semarang,Rumah Terendam,32
+147,2023,Kota Semarang,Rumah Terendam,789
+148,2023,Temanggung,Rumah Terendam,8
+149,2023,Wonogiri,Rumah Terendam,20
+150,2023,Sukoharjo,Rumah Terendam,5463
+151,2023,Jepara,Rumah Terendam,616
+152,2023,Grobogan,Rumah Terendam,1737
+153,2023,Banyumas,Rumah Terendam,47
+154,2023,Wonosobo,Rumah Terendam,79
+155,2023,Brebes,Rumah Terendam,1645
+156,2023,Karanganyar,Rumah Terendam,28
+157,2023,Tegal,Rumah Terendam,1419
+158,2023,Pati,Rumah Terendam,3452
+159,2023,Purbalingga,Rumah Terendam,550
+160,2023,Kendal,Rumah Terendam,0
+161,2023,Banjarnegara,Rumah Terendam,0
+162,2023,Batang,Rumah Terendam,240
+163,2023,Blora,Rumah Terendam,1660
+164,2023,Kota Surakarta,Rumah Terendam,3350
+165,2023,Demak,Rumah Terendam,8513
+166,2023,Kebumen,Rumah Terendam,0
+167,2023,Kota Pekalongan,Rumah Terendam,3657
+168,2023,Pemalang,Rumah Terendam,40
+169,2023,Kota Tegal,Rumah Terendam,1422
+170,2023,Pekalongan,Rumah Terendam,3703
+171,2023,Rembang,Rumah Terendam,698
+172,2023,Kota Salatiga,Rumah Terendam,0
+173,2023,Boyolali,Rumah Terendam,11
+174,2023,Purworejo,Rumah Terendam,0
+175,2023,Kota Magelang,Rumah Terendam,0
+176,2023,Klaten,Sekolah,2
+177,2023,Magelang,Sekolah,1
+178,2023,Kudus,Sekolah,1
+179,2023,Cilacap,Sekolah,3
+180,2023,Sragen,Sekolah,12
+181,2023,Semarang,Sekolah,0
+182,2023,Kota Semarang,Sekolah,1
+183,2023,Temanggung,Sekolah,1
+184,2023,Wonogiri,Sekolah,4
+185,2023,Sukoharjo,Sekolah,0
+186,2023,Jepara,Sekolah,2
+187,2023,Grobogan,Sekolah,1
+188,2023,Banyumas,Sekolah,0
+189,2023,Wonosobo,Sekolah,0
+190,2023,Brebes,Sekolah,0
+191,2023,Karanganyar,Sekolah,0
+192,2023,Tegal,Sekolah,5
+193,2023,Pati,Sekolah,11
+194,2023,Purbalingga,Sekolah,1
+195,2023,Kendal,Sekolah,3
+196,2023,Banjarnegara,Sekolah,0
+197,2023,Batang,Sekolah,0
+198,2023,Blora,Sekolah,3
+199,2023,Kota Surakarta,Sekolah,0
+200,2023,Demak,Sekolah,0
+201,2023,Kebumen,Sekolah,0
+202,2023,Kota Pekalongan,Sekolah,0
+203,2023,Pemalang,Sekolah,0
+204,2023,Kota Tegal,Sekolah,6
+205,2023,Pekalongan,Sekolah,0
+206,2023,Rembang,Sekolah,0
+207,2023,Kota Salatiga,Sekolah,0
+208,2023,Boyolali,Sekolah,0
+209,2023,Purworejo,Sekolah,0
+210,2023,Kota Magelang,Sekolah,0
+211,2023,Klaten,Tempat Ibadah,0
+212,2023,Magelang,Tempat Ibadah,0
+213,2023,Kudus,Tempat Ibadah,0
+214,2023,Cilacap,Tempat Ibadah,14
+215,2023,Sragen,Tempat Ibadah,16
+216,2023,Semarang,Tempat Ibadah,0
+217,2023,Kota Semarang,Tempat Ibadah,1
+218,2023,Temanggung,Tempat Ibadah,2
+219,2023,Wonogiri,Tempat Ibadah,3
+220,2023,Sukoharjo,Tempat Ibadah,0
+221,2023,Jepara,Tempat Ibadah,0
+222,2023,Grobogan,Tempat Ibadah,1
+223,2023,Banyumas,Tempat Ibadah,0
+224,2023,Wonosobo,Tempat Ibadah,0
+225,2023,Brebes,Tempat Ibadah,0
+226,2023,Karanganyar,Tempat Ibadah,0
+227,2023,Tegal,Tempat Ibadah,0
+228,2023,Pati,Tempat Ibadah,6
+229,2023,Purbalingga,Tempat Ibadah,0
+230,2023,Kendal,Tempat Ibadah,0
+231,2023,Banjarnegara,Tempat Ibadah,1
+232,2023,Batang,Tempat Ibadah,0
+233,2023,Blora,Tempat Ibadah,0
+234,2023,Kota Surakarta,Tempat Ibadah,0
+235,2023,Demak,Tempat Ibadah,2
+236,2023,Kebumen,Tempat Ibadah,1
+237,2023,Kota Pekalongan,Tempat Ibadah,0
+238,2023,Pemalang,Tempat Ibadah,0
+239,2023,Kota Tegal,Tempat Ibadah,6
+240,2023,Pekalongan,Tempat Ibadah,0
+241,2023,Rembang,Tempat Ibadah,0
+242,2023,Kota Salatiga,Tempat Ibadah,0
+243,2023,Boyolali,Tempat Ibadah,0
+244,2023,Purworejo,Tempat Ibadah,0
+245,2023,Kota Magelang,Tempat Ibadah,0
+246,2023,Klaten,Sarana Kesehatan,0
+247,2023,Magelang,Sarana Kesehatan,0
+248,2023,Kudus,Sarana Kesehatan,0
+249,2023,Cilacap,Sarana Kesehatan,0
+250,2023,Sragen,Sarana Kesehatan,2
+251,2023,Semarang,Sarana Kesehatan,0
+252,2023,Kota Semarang,Sarana Kesehatan,0
+253,2023,Temanggung,Sarana Kesehatan,0
+254,2023,Wonogiri,Sarana Kesehatan,0
+255,2023,Sukoharjo,Sarana Kesehatan,0
+256,2023,Jepara,Sarana Kesehatan,0
+257,2023,Grobogan,Sarana Kesehatan,0
+258,2023,Banyumas,Sarana Kesehatan,0
+259,2023,Wonosobo,Sarana Kesehatan,0
+260,2023,Brebes,Sarana Kesehatan,0
+261,2023,Karanganyar,Sarana Kesehatan,0
+262,2023,Tegal,Sarana Kesehatan,0
+263,2023,Pati,Sarana Kesehatan,0
+264,2023,Purbalingga,Sarana Kesehatan,0
+265,2023,Kendal,Sarana Kesehatan,0
+266,2023,Banjarnegara,Sarana Kesehatan,0
+267,2023,Batang,Sarana Kesehatan,0
+268,2023,Blora,Sarana Kesehatan,0
+269,2023,Kota Surakarta,Sarana Kesehatan,0
+270,2023,Demak,Sarana Kesehatan,1
+271,2023,Kebumen,Sarana Kesehatan,0
+272,2023,Kota Pekalongan,Sarana Kesehatan,0
+273,2023,Pemalang,Sarana Kesehatan,0
+274,2023,Kota Tegal,Sarana Kesehatan,0
+275,2023,Pekalongan,Sarana Kesehatan,0
+276,2023,Rembang,Sarana Kesehatan,0
+277,2023,Kota Salatiga,Sarana Kesehatan,0
+278,2023,Boyolali,Sarana Kesehatan,0
+279,2023,Purworejo,Sarana Kesehatan,0
+280,2023,Kota Magelang,Sarana Kesehatan,0
+281,2023,Klaten,Kantor,0
+282,2023,Magelang,Kantor,0
+283,2023,Kudus,Kantor,0
+284,2023,Cilacap,Kantor,0
+285,2023,Sragen,Kantor,0
+286,2023,Semarang,Kantor,0
+287,2023,Kota Semarang,Kantor,0
+288,2023,Temanggung,Kantor,0
+289,2023,Wonogiri,Kantor,0
+290,2023,Sukoharjo,Kantor,0
+291,2023,Jepara,Kantor,0
+292,2023,Grobogan,Kantor,0
+293,2023,Banyumas,Kantor,0
+294,2023,Wonosobo,Kantor,0
+295,2023,Brebes,Kantor,1
+296,2023,Karanganyar,Kantor,0
+297,2023,Tegal,Kantor,2
+298,2023,Pati,Kantor,0
+299,2023,Purbalingga,Kantor,0
+300,2023,Kendal,Kantor,0
+301,2023,Banjarnegara,Kantor,0
+302,2023,Batang,Kantor,0
+303,2023,Blora,Kantor,1
+304,2023,Kota Surakarta,Kantor,0
+305,2023,Demak,Kantor,0
+306,2023,Kebumen,Kantor,0
+307,2023,Kota Pekalongan,Kantor,0
+308,2023,Pemalang,Kantor,0
+309,2023,Kota Tegal,Kantor,0
+310,2023,Pekalongan,Kantor,0
+311,2023,Rembang,Kantor,0
+312,2023,Kota Salatiga,Kantor,0
+313,2023,Boyolali,Kantor,0
+314,2023,Purworejo,Kantor,0
+315,2023,Kota Magelang,Kantor,0
+316,2023,Klaten,Kios,4
+317,2023,Magelang,Kios,2
+318,2023,Kudus,Kios,0
+319,2023,Cilacap,Kios,0
+320,2023,Sragen,Kios,0
+321,2023,Semarang,Kios,0
+322,2023,Kota Semarang,Kios,0
+323,2023,Temanggung,Kios,0
+324,2023,Wonogiri,Kios,1
+325,2023,Sukoharjo,Kios,0
+326,2023,Jepara,Kios,0
+327,2023,Grobogan,Kios,0
+328,2023,Banyumas,Kios,0
+329,2023,Wonosobo,Kios,0
+330,2023,Brebes,Kios,0
+331,2023,Karanganyar,Kios,0
+332,2023,Tegal,Kios,0
+333,2023,Pati,Kios,0
+334,2023,Purbalingga,Kios,0
+335,2023,Kendal,Kios,0
+336,2023,Banjarnegara,Kios,0
+337,2023,Batang,Kios,0
+338,2023,Blora,Kios,0
+339,2023,Kota Surakarta,Kios,1
+340,2023,Demak,Kios,0
+341,2023,Kebumen,Kios,0
+342,2023,Kota Pekalongan,Kios,0
+343,2023,Pemalang,Kios,0
+344,2023,Kota Tegal,Kios,0
+345,2023,Pekalongan,Kios,0
+346,2023,Rembang,Kios,13
+347,2023,Kota Salatiga,Kios,0
+348,2023,Boyolali,Kios,0
+349,2023,Purworejo,Kios,0
+350,2023,Kota Magelang,Kios,0
+351,2023,Klaten,Bangunan Lain,10
+352,2023,Magelang,Bangunan Lain,7
+353,2023,Kudus,Bangunan Lain,0
+354,2023,Cilacap,Bangunan Lain,2
+355,2023,Sragen,Bangunan Lain,1
+356,2023,Semarang,Bangunan Lain,0
+357,2023,Kota Semarang,Bangunan Lain,1
+358,2023,Temanggung,Bangunan Lain,2
+359,2023,Wonogiri,Bangunan Lain,13
+360,2023,Sukoharjo,Bangunan Lain,6
+361,2023,Jepara,Bangunan Lain,1
+362,2023,Grobogan,Bangunan Lain,0
+363,2023,Banyumas,Bangunan Lain,1
+364,2023,Wonosobo,Bangunan Lain,0
+365,2023,Brebes,Bangunan Lain,0
+366,2023,Karanganyar,Bangunan Lain,0
+367,2023,Tegal,Bangunan Lain,0
+368,2023,Pati,Bangunan Lain,0
+369,2023,Purbalingga,Bangunan Lain,2
+370,2023,Kendal,Bangunan Lain,1
+371,2023,Banjarnegara,Bangunan Lain,2
+372,2023,Batang,Bangunan Lain,0
+373,2023,Blora,Bangunan Lain,5
+374,2023,Kota Surakarta,Bangunan Lain,0
+375,2023,Demak,Bangunan Lain,157
+376,2023,Kebumen,Bangunan Lain,3
+377,2023,Kota Pekalongan,Bangunan Lain,0
+378,2023,Pemalang,Bangunan Lain,2
+379,2023,Kota Tegal,Bangunan Lain,1
+380,2023,Pekalongan,Bangunan Lain,1
+381,2023,Rembang,Bangunan Lain,1
+382,2023,Kota Salatiga,Bangunan Lain,0
+383,2023,Boyolali,Bangunan Lain,0
+384,2023,Purworejo,Bangunan Lain,1
+385,2023,Kota Magelang,Bangunan Lain,0
+386,2023,Klaten,Jembatan,0
+387,2023,Magelang,Jembatan,0
+388,2023,Kudus,Jembatan,0
+389,2023,Cilacap,Jembatan,2
+390,2023,Sragen,Jembatan,10
+391,2023,Semarang,Jembatan,1
+392,2023,Kota Semarang,Jembatan,0
+393,2023,Temanggung,Jembatan,0
+394,2023,Wonogiri,Jembatan,1
+395,2023,Sukoharjo,Jembatan,0
+396,2023,Jepara,Jembatan,1
+397,2023,Grobogan,Jembatan,1
+398,2023,Banyumas,Jembatan,0
+399,2023,Wonosobo,Jembatan,0
+400,2023,Brebes,Jembatan,0
+401,2023,Karanganyar,Jembatan,1
+402,2023,Tegal,Jembatan,0
+403,2023,Pati,Jembatan,0
+404,2023,Purbalingga,Jembatan,0
+405,2023,Kendal,Jembatan,0
+406,2023,Banjarnegara,Jembatan,1
+407,2023,Batang,Jembatan,0
+408,2023,Blora,Jembatan,5
+409,2023,Kota Surakarta,Jembatan,0
+410,2023,Demak,Jembatan,0
+411,2023,Kebumen,Jembatan,0
+412,2023,Kota Pekalongan,Jembatan,0
+413,2023,Pemalang,Jembatan,0
+414,2023,Kota Tegal,Jembatan,0
+415,2023,Pekalongan,Jembatan,0
+416,2023,Rembang,Jembatan,0
+417,2023,Kota Salatiga,Jembatan,0
+418,2023,Boyolali,Jembatan,0
+419,2023,Purworejo,Jembatan,0
+420,2023,Kota Magelang,Jembatan,0
+421,2023,Klaten,Jalan,1
+422,2023,Magelang,Jalan,13
+423,2023,Kudus,Jalan,9
+424,2023,Cilacap,Jalan,8
+425,2023,Sragen,Jalan,1
+426,2023,Semarang,Jalan,4
+427,2023,Kota Semarang,Jalan,2
+428,2023,Temanggung,Jalan,10
+429,2023,Wonogiri,Jalan,10
+430,2023,Sukoharjo,Jalan,0
+431,2023,Jepara,Jalan,12
+432,2023,Grobogan,Jalan,1
+433,2023,Banyumas,Jalan,2
+434,2023,Wonosobo,Jalan,4
+435,2023,Brebes,Jalan,2
+436,2023,Karanganyar,Jalan,10
+437,2023,Tegal,Jalan,0
+438,2023,Pati,Jalan,0
+439,2023,Purbalingga,Jalan,4
+440,2023,Kendal,Jalan,2
+441,2023,Banjarnegara,Jalan,2
+442,2023,Batang,Jalan,2
+443,2023,Blora,Jalan,8
+444,2023,Kota Surakarta,Jalan,0
+445,2023,Demak,Jalan,0
+446,2023,Kebumen,Jalan,2
+447,2023,Kota Pekalongan,Jalan,0
+448,2023,Pemalang,Jalan,0
+449,2023,Kota Tegal,Jalan,0
+450,2023,Pekalongan,Jalan,1
+451,2023,Rembang,Jalan,0
+452,2023,Kota Salatiga,Jalan,0
+453,2023,Boyolali,Jalan,0
+454,2023,Purworejo,Jalan,0
+455,2023,Kota Magelang,Jalan,0
+456,2023,Klaten,Sawah (Ha),5
+457,2023,Magelang,Sawah (Ha),0
+458,2023,Kudus,Sawah (Ha),2216
+459,2023,Cilacap,Sawah (Ha),1
+460,2023,Sragen,Sawah (Ha),1203
+461,2023,Semarang,Sawah (Ha),40
+462,2023,Kota Semarang,Sawah (Ha),0
+463,2023,Temanggung,Sawah (Ha),7907
+464,2023,Wonogiri,Sawah (Ha),0
+465,2023,Sukoharjo,Sawah (Ha),60
+466,2023,Jepara,Sawah (Ha),330
+467,2023,Grobogan,Sawah (Ha),0
+468,2023,Banyumas,Sawah (Ha),0
+469,2023,Wonosobo,Sawah (Ha),0
+470,2023,Brebes,Sawah (Ha),0
+471,2023,Karanganyar,Sawah (Ha),0
+472,2023,Tegal,Sawah (Ha),0
+473,2023,Pati,Sawah (Ha),1368
+474,2023,Purbalingga,Sawah (Ha),0
+475,2023,Kendal,Sawah (Ha),0
+476,2023,Banjarnegara,Sawah (Ha),0
+477,2023,Batang,Sawah (Ha),0
+478,2023,Blora,Sawah (Ha),23
+479,2023,Kota Surakarta,Sawah (Ha),0
+480,2023,Demak,Sawah (Ha),6088
+481,2023,Kebumen,Sawah (Ha),0
+482,2023,Kota Pekalongan,Sawah (Ha),0
+483,2023,Pemalang,Sawah (Ha),0
+484,2023,Kota Tegal,Sawah (Ha),0
+485,2023,Pekalongan,Sawah (Ha),0
+486,2023,Rembang,Sawah (Ha),73
+487,2023,Kota Salatiga,Sawah (Ha),0
+488,2023,Boyolali,Sawah (Ha),2860
+489,2023,Purworejo,Sawah (Ha),0
+490,2023,Kota Magelang,Sawah (Ha),0
+491,2023,Klaten,Kebun/Hutan (Ha),153
+492,2023,Magelang,Kebun/Hutan (Ha),259
+493,2023,Kudus,Kebun/Hutan (Ha),38
+494,2023,Cilacap,Kebun/Hutan (Ha),72
+495,2023,Sragen,Kebun/Hutan (Ha),129
+496,2023,Semarang,Kebun/Hutan (Ha),30
+497,2023,Kota Semarang,Kebun/Hutan (Ha),30
+498,2023,Temanggung,Kebun/Hutan (Ha),4
+499,2023,Wonogiri,Kebun/Hutan (Ha),64
+500,2023,Sukoharjo,Kebun/Hutan (Ha),37
+501,2023,Jepara,Kebun/Hutan (Ha),3
+502,2023,Grobogan,Kebun/Hutan (Ha),2
+503,2023,Banyumas,Kebun/Hutan (Ha),37
+504,2023,Wonosobo,Kebun/Hutan (Ha),241
+505,2023,Brebes,Kebun/Hutan (Ha),0
+506,2023,Karanganyar,Kebun/Hutan (Ha),73
+507,2023,Tegal,Kebun/Hutan (Ha),6
+508,2023,Pati,Kebun/Hutan (Ha),153
+509,2023,Purbalingga,Kebun/Hutan (Ha),0
+510,2023,Kendal,Kebun/Hutan (Ha),6
+511,2023,Banjarnegara,Kebun/Hutan (Ha),0
+512,2023,Batang,Kebun/Hutan (Ha),4
+513,2023,Blora,Kebun/Hutan (Ha),8
+514,2023,Kota Surakarta,Kebun/Hutan (Ha),2
+515,2023,Demak,Kebun/Hutan (Ha),0
+516,2023,Kebumen,Kebun/Hutan (Ha),0
+517,2023,Kota Pekalongan,Kebun/Hutan (Ha),0
+518,2023,Pemalang,Kebun/Hutan (Ha),12
+519,2023,Kota Tegal,Kebun/Hutan (Ha),1
+520,2023,Pekalongan,Kebun/Hutan (Ha),3
+521,2023,Rembang,Kebun/Hutan (Ha),1
+522,2023,Kota Salatiga,Kebun/Hutan (Ha),3
+523,2023,Boyolali,Kebun/Hutan (Ha),0
+524,2023,Purworejo,Kebun/Hutan (Ha),5
+525,2023,Kota Magelang,Kebun/Hutan (Ha),1
+526,2023,Klaten,Kolam (Ha),0
+527,2023,Magelang,Kolam (Ha),0
+528,2023,Kudus,Kolam (Ha),0
+529,2023,Cilacap,Kolam (Ha),0
+530,2023,Sragen,Kolam (Ha),0
+531,2023,Semarang,Kolam (Ha),0
+532,2023,Kota Semarang,Kolam (Ha),0
+533,2023,Temanggung,Kolam (Ha),0
+534,2023,Wonogiri,Kolam (Ha),0
+535,2023,Sukoharjo,Kolam (Ha),0
+536,2023,Jepara,Kolam (Ha),0
+537,2023,Grobogan,Kolam (Ha),0
+538,2023,Banyumas,Kolam (Ha),0
+539,2023,Wonosobo,Kolam (Ha),0
+540,2023,Brebes,Kolam (Ha),0
+541,2023,Karanganyar,Kolam (Ha),0
+542,2023,Tegal,Kolam (Ha),0
+543,2023,Pati,Kolam (Ha),60
+544,2023,Purbalingga,Kolam (Ha),0
+545,2023,Kendal,Kolam (Ha),0
+546,2023,Banjarnegara,Kolam (Ha),0
+547,2023,Batang,Kolam (Ha),0
+548,2023,Blora,Kolam (Ha),0
+549,2023,Kota Surakarta,Kolam (Ha),0
+550,2023,Demak,Kolam (Ha),0
+551,2023,Kebumen,Kolam (Ha),0
+552,2023,Kota Pekalongan,Kolam (Ha),0
+553,2023,Pemalang,Kolam (Ha),0
+554,2023,Kota Tegal,Kolam (Ha),0
+555,2023,Pekalongan,Kolam (Ha),0
+556,2023,Rembang,Kolam (Ha),0
+557,2023,Kota Salatiga,Kolam (Ha),0
+558,2023,Boyolali,Kolam (Ha),0
+559,2023,Purworejo,Kolam (Ha),0
+560,2023,Kota Magelang,Kolam (Ha),0
+561,2023,Klaten,Talud,8
+562,2023,Magelang,Talud,2
+563,2023,Kudus,Talud,1
+564,2023,Cilacap,Talud,2
+565,2023,Sragen,Talud,0
+566,2023,Semarang,Talud,1
+567,2023,Kota Semarang,Talud,1
+568,2023,Temanggung,Talud,1
+569,2023,Wonogiri,Talud,7
+570,2023,Sukoharjo,Talud,0
+571,2023,Jepara,Talud,0
+572,2023,Grobogan,Talud,0
+573,2023,Banyumas,Talud,2
+574,2023,Wonosobo,Talud,1
+575,2023,Brebes,Talud,0
+576,2023,Karanganyar,Talud,6
+577,2023,Tegal,Talud,1
+578,2023,Pati,Talud,0
+579,2023,Purbalingga,Talud,0
+580,2023,Kendal,Talud,0
+581,2023,Banjarnegara,Talud,0
+582,2023,Batang,Talud,0
+583,2023,Blora,Talud,0
+584,2023,Kota Surakarta,Talud,0
+585,2023,Demak,Talud,0
+586,2023,Kebumen,Talud,0
+587,2023,Kota Pekalongan,Talud,0
+588,2023,Pemalang,Talud,0
+589,2023,Kota Tegal,Talud,0
+590,2023,Pekalongan,Talud,0
+591,2023,Rembang,Talud,0
+592,2023,Kota Salatiga,Talud,1
+593,2023,Boyolali,Talud,0
+594,2023,Purworejo,Talud,0
+595,2023,Kota Magelang,Talud,0
+596,2023,Klaten,Tanggul,1
+597,2023,Magelang,Tanggul,0
+598,2023,Kudus,Tanggul,0
+599,2023,Cilacap,Tanggul,1
+600,2023,Sragen,Tanggul,0
+601,2023,Semarang,Tanggul,2
+602,2023,Kota Semarang,Tanggul,0
+603,2023,Temanggung,Tanggul,1
+604,2023,Wonogiri,Tanggul,0
+605,2023,Sukoharjo,Tanggul,0
+606,2023,Jepara,Tanggul,0
+607,2023,Grobogan,Tanggul,2
+608,2023,Banyumas,Tanggul,1
+609,2023,Wonosobo,Tanggul,0
+610,2023,Brebes,Tanggul,0
+611,2023,Karanganyar,Tanggul,0
+612,2023,Tegal,Tanggul,0
+613,2023,Pati,Tanggul,2
+614,2023,Purbalingga,Tanggul,0
+615,2023,Kendal,Tanggul,0
+616,2023,Banjarnegara,Tanggul,0
+617,2023,Batang,Tanggul,0
+618,2023,Blora,Tanggul,1
+619,2023,Kota Surakarta,Tanggul,1
+620,2023,Demak,Tanggul,0
+621,2023,Kebumen,Tanggul,0
+622,2023,Kota Pekalongan,Tanggul,0
+623,2023,Pemalang,Tanggul,0
+624,2023,Kota Tegal,Tanggul,0
+625,2023,Pekalongan,Tanggul,0
+626,2023,Rembang,Tanggul,1
+627,2023,Kota Salatiga,Tanggul,0
+628,2023,Boyolali,Tanggul,1
+629,2023,Purworejo,Tanggul,0
+630,2023,Kota Magelang,Tanggul,0
+631,2023,Klaten,Saluran Irigasi,0
+632,2023,Magelang,Saluran Irigasi,0
+633,2023,Kudus,Saluran Irigasi,0
+634,2023,Cilacap,Saluran Irigasi,0
+635,2023,Sragen,Saluran Irigasi,0
+636,2023,Semarang,Saluran Irigasi,0
+637,2023,Kota Semarang,Saluran Irigasi,0
+638,2023,Temanggung,Saluran Irigasi,2
+639,2023,Wonogiri,Saluran Irigasi,1
+640,2023,Sukoharjo,Saluran Irigasi,0
+641,2023,Jepara,Saluran Irigasi,0
+642,2023,Grobogan,Saluran Irigasi,0
+643,2023,Banyumas,Saluran Irigasi,0
+644,2023,Wonosobo,Saluran Irigasi,1
+645,2023,Brebes,Saluran Irigasi,0
+646,2023,Karanganyar,Saluran Irigasi,0
+647,2023,Tegal,Saluran Irigasi,0
+648,2023,Pati,Saluran Irigasi,0
+649,2023,Purbalingga,Saluran Irigasi,0
+650,2023,Kendal,Saluran Irigasi,0
+651,2023,Banjarnegara,Saluran Irigasi,1
+652,2023,Batang,Saluran Irigasi,0
+653,2023,Blora,Saluran Irigasi,0
+654,2023,Kota Surakarta,Saluran Irigasi,0
+655,2023,Demak,Saluran Irigasi,0
+656,2023,Kebumen,Saluran Irigasi,1
+657,2023,Kota Pekalongan,Saluran Irigasi,0
+658,2023,Pemalang,Saluran Irigasi,0
+659,2023,Kota Tegal,Saluran Irigasi,0
+660,2023,Pekalongan,Saluran Irigasi,1
+661,2023,Rembang,Saluran Irigasi,0
+662,2023,Kota Salatiga,Saluran Irigasi,0
+663,2023,Boyolali,Saluran Irigasi,0
+664,2023,Purworejo,Saluran Irigasi,0
+665,2023,Kota Magelang,Saluran Irigasi,0
