@@ -1,0 +1,351 @@
+﻿_id,tahun_data,nama_kab_kota,jenis_kerusakan,jumlah_kerusakan
+1,2022,Banjarnegara,Rumah Rusak Berat,20
+2,2022,Banyumas,Rumah Rusak Berat,32
+3,2022,Batang,Rumah Rusak Berat,8
+4,2022,Blora,Rumah Rusak Berat,9
+5,2022,Boyolali,Rumah Rusak Berat,0
+6,2022,Brebes ,Rumah Rusak Berat,56
+7,2022,Cilacap,Rumah Rusak Berat,40
+8,2022,Demak,Rumah Rusak Berat,8
+9,2022,Grobogan,Rumah Rusak Berat,47
+10,2022,Jepara,Rumah Rusak Berat,16
+11,2022,Karanganyar,Rumah Rusak Berat,13
+12,2022,Kebumen,Rumah Rusak Berat,7
+13,2022,Kendal,Rumah Rusak Berat,7
+14,2022,Klaten,Rumah Rusak Berat,2
+15,2022,Kota Magelang,Rumah Rusak Berat,1
+16,2022,Kota Pekalongan,Rumah Rusak Berat,0
+17,2022,Kota Salatiga,Rumah Rusak Berat,1
+18,2022,Kota Semarang,Rumah Rusak Berat,26
+19,2022,Kota Surakarta,Rumah Rusak Berat,1
+20,2022,Kota Tegal,Rumah Rusak Berat,3
+21,2022,Kudus ,Rumah Rusak Berat,4
+22,2022,Magelang,Rumah Rusak Berat,10
+23,2022,Pati,Rumah Rusak Berat,27
+24,2022,Pekalongan,Rumah Rusak Berat,3
+25,2022,Pemalang,Rumah Rusak Berat,31
+26,2022,Purbalingga,Rumah Rusak Berat,4
+27,2022,Purworejo,Rumah Rusak Berat,1
+28,2022,Rembang,Rumah Rusak Berat,18
+29,2022,Semarang,Rumah Rusak Berat,12
+30,2022,Sragen ,Rumah Rusak Berat,10
+31,2022,Sukoharjo,Rumah Rusak Berat,0
+32,2022,Tegal,Rumah Rusak Berat,162
+33,2022,Temanggung,Rumah Rusak Berat,9
+34,2022,Wonogiri,Rumah Rusak Berat,1
+35,2022,Wonosobo,Rumah Rusak Berat,22
+36,2022,Banjarnegara,Rumah Rusak Sedang,58
+37,2022,Banyumas,Rumah Rusak Sedang,88
+38,2022,Batang,Rumah Rusak Sedang,5
+39,2022,Blora,Rumah Rusak Sedang,12
+40,2022,Boyolali,Rumah Rusak Sedang,5
+41,2022,Brebes ,Rumah Rusak Sedang,25
+42,2022,Cilacap,Rumah Rusak Sedang,44
+43,2022,Demak,Rumah Rusak Sedang,34
+44,2022,Grobogan,Rumah Rusak Sedang,24
+45,2022,Jepara,Rumah Rusak Sedang,25
+46,2022,Karanganyar,Rumah Rusak Sedang,21
+47,2022,Kebumen,Rumah Rusak Sedang,7
+48,2022,Kendal,Rumah Rusak Sedang,15
+49,2022,Klaten,Rumah Rusak Sedang,11
+50,2022,Kota Magelang,Rumah Rusak Sedang,1
+51,2022,Kota Pekalongan,Rumah Rusak Sedang,0
+52,2022,Kota Salatiga,Rumah Rusak Sedang,1
+53,2022,Kota Semarang,Rumah Rusak Sedang,40
+54,2022,Kota Surakarta,Rumah Rusak Sedang,4
+55,2022,Kota Tegal,Rumah Rusak Sedang,0
+56,2022,Kudus ,Rumah Rusak Sedang,9
+57,2022,Magelang,Rumah Rusak Sedang,32
+58,2022,Pati,Rumah Rusak Sedang,11
+59,2022,Pekalongan,Rumah Rusak Sedang,2
+60,2022,Pemalang,Rumah Rusak Sedang,43
+61,2022,Purbalingga,Rumah Rusak Sedang,10
+62,2022,Purworejo,Rumah Rusak Sedang,1
+63,2022,Rembang,Rumah Rusak Sedang,37
+64,2022,Semarang,Rumah Rusak Sedang,9
+65,2022,Sragen ,Rumah Rusak Sedang,1
+66,2022,Sukoharjo,Rumah Rusak Sedang,3
+67,2022,Tegal,Rumah Rusak Sedang,181
+68,2022,Temanggung,Rumah Rusak Sedang,72
+69,2022,Wonogiri,Rumah Rusak Sedang,4
+70,2022,Wonosobo,Rumah Rusak Sedang,34
+71,2022,Banjarnegara,Rumah Rusak Ringan,185
+72,2022,Banyumas,Rumah Rusak Ringan,113
+73,2022,Batang,Rumah Rusak Ringan,50
+74,2022,Blora,Rumah Rusak Ringan,43
+75,2022,Boyolali,Rumah Rusak Ringan,50
+76,2022,Brebes ,Rumah Rusak Ringan,286
+77,2022,Cilacap,Rumah Rusak Ringan,444
+78,2022,Demak,Rumah Rusak Ringan,322
+79,2022,Grobogan,Rumah Rusak Ringan,133
+80,2022,Jepara,Rumah Rusak Ringan,430
+81,2022,Karanganyar,Rumah Rusak Ringan,102
+82,2022,Kebumen,Rumah Rusak Ringan,197
+83,2022,Kendal,Rumah Rusak Ringan,117
+84,2022,Klaten,Rumah Rusak Ringan,36
+85,2022,Kota Magelang,Rumah Rusak Ringan,21
+86,2022,Kota Pekalongan,Rumah Rusak Ringan,0
+87,2022,Kota Salatiga,Rumah Rusak Ringan,4
+88,2022,Kota Semarang,Rumah Rusak Ringan,99
+89,2022,Kota Surakarta,Rumah Rusak Ringan,2
+90,2022,Kota Tegal,Rumah Rusak Ringan,0
+91,2022,Kudus ,Rumah Rusak Ringan,117
+92,2022,Magelang,Rumah Rusak Ringan,316
+93,2022,Pati,Rumah Rusak Ringan,640
+94,2022,Pekalongan,Rumah Rusak Ringan,10
+95,2022,Pemalang,Rumah Rusak Ringan,115
+96,2022,Purbalingga,Rumah Rusak Ringan,140
+97,2022,Purworejo,Rumah Rusak Ringan,15
+98,2022,Rembang,Rumah Rusak Ringan,99
+99,2022,Semarang,Rumah Rusak Ringan,34
+100,2022,Sragen ,Rumah Rusak Ringan,50
+101,2022,Sukoharjo,Rumah Rusak Ringan,0
+102,2022,Tegal,Rumah Rusak Ringan,236
+103,2022,Temanggung,Rumah Rusak Ringan,126
+104,2022,Wonogiri,Rumah Rusak Ringan,24
+105,2022,Wonosobo,Rumah Rusak Ringan,60
+106,2022,Banjarnegara,Sekolah,3
+107,2022,Banyumas,Sekolah,7
+108,2022,Batang,Sekolah,1
+109,2022,Blora,Sekolah,0
+110,2022,Boyolali,Sekolah,3
+111,2022,Brebes ,Sekolah,10
+112,2022,Cilacap,Sekolah,23
+113,2022,Demak,Sekolah,1
+114,2022,Grobogan,Sekolah,3
+115,2022,Jepara,Sekolah,1
+116,2022,Karanganyar,Sekolah,1
+117,2022,Kebumen,Sekolah,5
+118,2022,Kendal,Sekolah,0
+119,2022,Klaten,Sekolah,0
+120,2022,Kota Magelang,Sekolah,2
+121,2022,Kota Pekalongan,Sekolah,0
+122,2022,Kota Salatiga,Sekolah,0
+123,2022,Kota Semarang,Sekolah,2
+124,2022,Kota Surakarta,Sekolah,1
+125,2022,Kota Tegal,Sekolah,5
+126,2022,Kudus ,Sekolah,2
+127,2022,Magelang,Sekolah,11
+128,2022,Pati,Sekolah,4
+129,2022,Pekalongan,Sekolah,0
+130,2022,Pemalang,Sekolah,5
+131,2022,Purbalingga,Sekolah,0
+132,2022,Purworejo,Sekolah,0
+133,2022,Rembang,Sekolah,0
+134,2022,Semarang,Sekolah,1
+135,2022,Sragen ,Sekolah,3
+136,2022,Sukoharjo,Sekolah,0
+137,2022,Tegal,Sekolah,10
+138,2022,Temanggung,Sekolah,7
+139,2022,Wonogiri,Sekolah,0
+140,2022,Wonosobo,Sekolah,4
+141,2022,Banjarnegara,Tempat Ibadah,3
+142,2022,Banyumas,Tempat Ibadah,3
+143,2022,Batang,Tempat Ibadah,0
+144,2022,Blora,Tempat Ibadah,0
+145,2022,Boyolali,Tempat Ibadah,2
+146,2022,Brebes ,Tempat Ibadah,2
+147,2022,Cilacap,Tempat Ibadah,52
+148,2022,Demak,Tempat Ibadah,1
+149,2022,Grobogan,Tempat Ibadah,0
+150,2022,Jepara,Tempat Ibadah,1
+151,2022,Karanganyar,Tempat Ibadah,0
+152,2022,Kebumen,Tempat Ibadah,3
+153,2022,Kendal,Tempat Ibadah,2
+154,2022,Klaten,Tempat Ibadah,1
+155,2022,Kota Magelang,Tempat Ibadah,0
+156,2022,Kota Pekalongan,Tempat Ibadah,0
+157,2022,Kota Salatiga,Tempat Ibadah,0
+158,2022,Kota Semarang,Tempat Ibadah,1
+159,2022,Kota Surakarta,Tempat Ibadah,0
+160,2022,Kota Tegal,Tempat Ibadah,0
+161,2022,Kudus ,Tempat Ibadah,0
+162,2022,Magelang,Tempat Ibadah,5
+163,2022,Pati,Tempat Ibadah,5
+164,2022,Pekalongan,Tempat Ibadah,1
+165,2022,Pemalang,Tempat Ibadah,1
+166,2022,Purbalingga,Tempat Ibadah,0
+167,2022,Purworejo,Tempat Ibadah,0
+168,2022,Rembang,Tempat Ibadah,1
+169,2022,Semarang,Tempat Ibadah,0
+170,2022,Sragen ,Tempat Ibadah,2
+171,2022,Sukoharjo,Tempat Ibadah,0
+172,2022,Tegal,Tempat Ibadah,8
+173,2022,Temanggung,Tempat Ibadah,2
+174,2022,Wonogiri,Tempat Ibadah,0
+175,2022,Wonosobo,Tempat Ibadah,0
+176,2022,Banjarnegara,Sarana Kesehatan,0
+177,2022,Banyumas,Sarana Kesehatan,0
+178,2022,Batang,Sarana Kesehatan,0
+179,2022,Blora,Sarana Kesehatan,0
+180,2022,Boyolali,Sarana Kesehatan,0
+181,2022,Brebes ,Sarana Kesehatan,0
+182,2022,Cilacap,Sarana Kesehatan,0
+183,2022,Demak,Sarana Kesehatan,1
+184,2022,Grobogan,Sarana Kesehatan,0
+185,2022,Jepara,Sarana Kesehatan,1
+186,2022,Karanganyar,Sarana Kesehatan,3
+187,2022,Kebumen,Sarana Kesehatan,0
+188,2022,Kendal,Sarana Kesehatan,0
+189,2022,Klaten,Sarana Kesehatan,0
+190,2022,Kota Magelang,Sarana Kesehatan,0
+191,2022,Kota Pekalongan,Sarana Kesehatan,0
+192,2022,Kota Salatiga,Sarana Kesehatan,0
+193,2022,Kota Semarang,Sarana Kesehatan,0
+194,2022,Kota Surakarta,Sarana Kesehatan,0
+195,2022,Kota Tegal,Sarana Kesehatan,0
+196,2022,Kudus ,Sarana Kesehatan,0
+197,2022,Magelang,Sarana Kesehatan,0
+198,2022,Pati,Sarana Kesehatan,0
+199,2022,Pekalongan,Sarana Kesehatan,0
+200,2022,Pemalang,Sarana Kesehatan,0
+201,2022,Purbalingga,Sarana Kesehatan,0
+202,2022,Purworejo,Sarana Kesehatan,0
+203,2022,Rembang,Sarana Kesehatan,0
+204,2022,Semarang,Sarana Kesehatan,0
+205,2022,Sragen ,Sarana Kesehatan,0
+206,2022,Sukoharjo,Sarana Kesehatan,0
+207,2022,Tegal,Sarana Kesehatan,0
+208,2022,Temanggung,Sarana Kesehatan,1
+209,2022,Wonogiri,Sarana Kesehatan,0
+210,2022,Wonosobo,Sarana Kesehatan,1
+211,2022,Banjarnegara,Kantor,0
+212,2022,Banyumas,Kantor,1
+213,2022,Batang,Kantor,0
+214,2022,Blora,Kantor,1
+215,2022,Boyolali,Kantor,0
+216,2022,Brebes ,Kantor,1
+217,2022,Cilacap,Kantor,1
+218,2022,Demak,Kantor,0
+219,2022,Grobogan,Kantor,0
+220,2022,Jepara,Kantor,0
+221,2022,Karanganyar,Kantor,6
+222,2022,Kebumen,Kantor,0
+223,2022,Kendal,Kantor,1
+224,2022,Klaten,Kantor,0
+225,2022,Kota Magelang,Kantor,0
+226,2022,Kota Pekalongan,Kantor,0
+227,2022,Kota Salatiga,Kantor,0
+228,2022,Kota Semarang,Kantor,0
+229,2022,Kota Surakarta,Kantor,0
+230,2022,Kota Tegal,Kantor,0
+231,2022,Kudus ,Kantor,1
+232,2022,Magelang,Kantor,0
+233,2022,Pati,Kantor,1
+234,2022,Pekalongan,Kantor,0
+235,2022,Pemalang,Kantor,0
+236,2022,Purbalingga,Kantor,0
+237,2022,Purworejo,Kantor,0
+238,2022,Rembang,Kantor,2
+239,2022,Semarang,Kantor,0
+240,2022,Sragen ,Kantor,0
+241,2022,Sukoharjo,Kantor,0
+242,2022,Tegal,Kantor,2
+243,2022,Temanggung,Kantor,1
+244,2022,Wonogiri,Kantor,0
+245,2022,Wonosobo,Kantor,1
+246,2022,Banjarnegara,Kios,8
+247,2022,Banyumas,Kios,7
+248,2022,Batang,Kios,5
+249,2022,Blora,Kios,0
+250,2022,Boyolali,Kios,22
+251,2022,Brebes ,Kios,8
+252,2022,Cilacap,Kios,11
+253,2022,Demak,Kios,35
+254,2022,Grobogan,Kios,3
+255,2022,Jepara,Kios,14
+256,2022,Karanganyar,Kios,1
+257,2022,Kebumen,Kios,206
+258,2022,Kendal,Kios,6
+259,2022,Klaten,Kios,4
+260,2022,Kota Magelang,Kios,2
+261,2022,Kota Pekalongan,Kios,50
+262,2022,Kota Salatiga,Kios,1
+263,2022,Kota Semarang,Kios,1181
+264,2022,Kota Surakarta,Kios,26
+265,2022,Kota Tegal,Kios,1
+266,2022,Kudus ,Kios,6
+267,2022,Magelang,Kios,14
+268,2022,Pati,Kios,37
+269,2022,Pekalongan,Kios,2
+270,2022,Pemalang,Kios,2
+271,2022,Purbalingga,Kios,6
+272,2022,Purworejo,Kios,1
+273,2022,Rembang,Kios,3
+274,2022,Semarang,Kios,27
+275,2022,Sragen ,Kios,6
+276,2022,Sukoharjo,Kios,0
+277,2022,Tegal,Kios,1
+278,2022,Temanggung,Kios,11
+279,2022,Wonogiri,Kios,0
+280,2022,Wonosobo,Kios,1
+281,2022,Banjarnegara,Bangunan Lain,5
+282,2022,Banyumas,Bangunan Lain,4
+283,2022,Batang,Bangunan Lain,3
+284,2022,Blora,Bangunan Lain,3
+285,2022,Boyolali,Bangunan Lain,0
+286,2022,Brebes ,Bangunan Lain,2
+287,2022,Cilacap,Bangunan Lain,15
+288,2022,Demak,Bangunan Lain,2
+289,2022,Grobogan,Bangunan Lain,2
+290,2022,Jepara,Bangunan Lain,10
+291,2022,Karanganyar,Bangunan Lain,4
+292,2022,Kebumen,Bangunan Lain,6
+293,2022,Kendal,Bangunan Lain,3
+294,2022,Klaten,Bangunan Lain,7
+295,2022,Kota Magelang,Bangunan Lain,3
+296,2022,Kota Pekalongan,Bangunan Lain,0
+297,2022,Kota Salatiga,Bangunan Lain,0
+298,2022,Kota Semarang,Bangunan Lain,1
+299,2022,Kota Surakarta,Bangunan Lain,1
+300,2022,Kota Tegal,Bangunan Lain,1
+301,2022,Kudus ,Bangunan Lain,13
+302,2022,Magelang,Bangunan Lain,22
+303,2022,Pati,Bangunan Lain,6
+304,2022,Pekalongan,Bangunan Lain,1
+305,2022,Pemalang,Bangunan Lain,4
+306,2022,Purbalingga,Bangunan Lain,4
+307,2022,Purworejo,Bangunan Lain,0
+308,2022,Rembang,Bangunan Lain,6
+309,2022,Semarang,Bangunan Lain,5
+310,2022,Sragen ,Bangunan Lain,4
+311,2022,Sukoharjo,Bangunan Lain,4
+312,2022,Tegal,Bangunan Lain,4
+313,2022,Temanggung,Bangunan Lain,12
+314,2022,Wonogiri,Bangunan Lain,0
+315,2022,Wonosobo,Bangunan Lain,7
+316,2022,Banjarnegara,Jembatan,6
+317,2022,Banyumas,Jembatan,9
+318,2022,Batang,Jembatan,3
+319,2022,Blora,Jembatan,3
+320,2022,Boyolali,Jembatan,3
+321,2022,Brebes ,Jembatan,11
+322,2022,Cilacap,Jembatan,6
+323,2022,Demak,Jembatan,0
+324,2022,Grobogan,Jembatan,6
+325,2022,Jepara,Jembatan,0
+326,2022,Karanganyar,Jembatan,0
+327,2022,Kebumen,Jembatan,2
+328,2022,Kendal,Jembatan,0
+329,2022,Klaten,Jembatan,4
+330,2022,Kota Magelang,Jembatan,0
+331,2022,Kota Pekalongan,Jembatan,0
+332,2022,Kota Salatiga,Jembatan,0
+333,2022,Kota Semarang,Jembatan,1
+334,2022,Kota Surakarta,Jembatan,0
+335,2022,Kota Tegal,Jembatan,0
+336,2022,Kudus ,Jembatan,0
+337,2022,Magelang,Jembatan,0
+338,2022,Pati,Jembatan,3
+339,2022,Pekalongan,Jembatan,1
+340,2022,Pemalang,Jembatan,2
+341,2022,Purbalingga,Jembatan,0
+342,2022,Purworejo,Jembatan,0
+343,2022,Rembang,Jembatan,0
+344,2022,Semarang,Jembatan,0
+345,2022,Sragen ,Jembatan,2
+346,2022,Sukoharjo,Jembatan,0
+347,2022,Tegal,Jembatan,5
+348,2022,Temanggung,Jembatan,3
+349,2022,Wonogiri,Jembatan,2
+350,2022,Wonosobo,Jembatan,5
