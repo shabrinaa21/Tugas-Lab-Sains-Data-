@@ -31,3 +31,6 @@ Keputusan dilakukan dengan mempertimbangkan tiga alternatif:
 2. Alternatif B: Menetapkan wilayah prioritas berdasarkan dampak bencana per 100.000 penduduk, dengan mempertimbangkan korban terdampak dan rumah rusak.
 3. Alternatif C: Mempertahankan pola alokasi penanganan yang berjalan saat ini secara merata.
 
+**SUMBER DATA**
+- Data banjir jawa tengah tahun 2022: https://data.jatengprov.go.id/datastore/dump/22b527c1-2d29-4dae-8a3e-5183d433cce7?bom=True
+- Data banjir jawa tengah tahun 2023: https://data.jatengprov.go.id/datastore/dump/377cd917-ba20-4eb5-87f0-fbc277d491da?bom=True
